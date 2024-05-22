@@ -1,5 +1,5 @@
 {
-    "name": "esphome-ultrasonic-3wire-sensor",
+    "name": "esphome_ultrasonic_3wire_sensor",
     "version": "v0.0.1",
     "description": "Custom sensor to support 3wire logic on ultrasonic sensors, like Grove Ultrasonic Ranger",
     "keywords": "esphome ultrasonic",
@@ -9,7 +9,7 @@
     },
     "authors": [
       {
-        "name": "kdorff"
+        "name": "realphanta"
       }
     ],
     "license": "MIT",
