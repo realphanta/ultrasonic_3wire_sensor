@@ -5,7 +5,7 @@
     "keywords": "esphome ultrasonic",
     "repository": {
       "type": "git",
-      "url": "https://github.com/realphanta/ultrasonic_3wire.git"
+      "url": "https://github.com/realphanta/ultrasonic_3wire_sensor.git"
     },
     "authors": [
       {
@@ -13,7 +13,7 @@
       }
     ],
     "license": "MIT",
-    "homepage": "https://github.com/realphanta/ultrasonic_3wire",
+    "homepage": "https://github.com/realphanta/ultrasonic_3wire_sensor",
     "dependencies": {},
     "frameworks": "*",
     "platforms": "*"
