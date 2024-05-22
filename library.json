@@ -1,0 +1,21 @@
+{
+    "name": "esphome-ultrasonic-3wire",
+    "version": "v0.0.1",
+    "description": "Custom sensor to support 3wire logic on ultrasonic sensors, like Grove Ultrasonic Ranger",
+    "keywords": "esphome ultrasonic",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/realphanta/ultrasonic_3wire.git"
+    },
+    "authors": [
+      {
+        "name": "kdorff"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/realphanta/ultrasonic_3wire",
+    "dependencies": {},
+    "frameworks": "*",
+    "platforms": "*"
+  }
+  
